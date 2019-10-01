@@ -20,6 +20,7 @@ include __DIR__ . '/lib.php';
         <td width="20%">
             <?php
             //menu
+            //gfh
             $menu = [
                 '1' => 'Страница 1',
                 '2' => 'Страница 2',
